@@ -1,0 +1,1 @@
+powershell E:\Projects\testFolder\autoScript.ps1
